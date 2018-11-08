@@ -1,0 +1,16 @@
+{
+  "name": "cypress-server",
+  "version": "1.0.0",
+  "description": "> Cypress + UIDesigner = ❤️Tests",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "keywords": [],
+  "dependencies": {
+    "cypress": "^3.0.3",
+    "express": "^4.16.4"
+  }
+}
